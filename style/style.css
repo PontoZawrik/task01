@@ -1,0 +1,19 @@
+.main-div {
+    background-color: rgb(245,245,245);
+
+    height: 1000px;
+    width: 700px;
+
+    margin-left: auto;
+    margin-right: auto;
+  
+    padding: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+.color-h {
+    color: rgb(126,152,181);
+}
